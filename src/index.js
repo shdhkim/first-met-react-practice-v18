@@ -21,7 +21,7 @@ import Blocks from './chapter_15/Blocks';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Blocks />
+    <Library/>
   </React.StrictMode>
 );
 
